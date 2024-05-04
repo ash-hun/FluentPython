@@ -7,6 +7,13 @@
 
 ##### Chapter 01. 파이썬 데이터모델
 - Chapter 01 / Python Data Model.ipynb
+
+    <a target="_blank" href="https://colab.research.google.com/github/ash-hun/FluentPython/blob/main/Chapter%2001/Python%20Data%20Model.ipynb">
+      <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+    </a>
+
+    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Ash-hun)](https://velog.io/@ash-hun/Fluent-Python-Data-Model)
+    
 ##### Chapter 02. 시퀀스
 ##### Chapter 03. 딕셔너리와 집합
 ##### Chapter 04. 텍스트와 바이트
