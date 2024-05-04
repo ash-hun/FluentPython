@@ -1,6 +1,6 @@
 <div align='center'>
-    <img width=80% src='./assets/image.png'>
-    <h2> [ Fluent Python ] </h2>
+    <img width=40% src='./assets/image.png'>
+    <h1> [ Fluent Python ] </h1>
 </div>
 
 ---  
